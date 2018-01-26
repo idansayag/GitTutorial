@@ -1,7 +1,13 @@
 # depslib dependency file v1.0
-1514140574 source:d:\program files\codeblocksprojects\test\main.cpp
+1516981289 source:d:\program files\codeblocksprojects\test\main.cpp
 	<iostream>
 
 1516979859 source:d:\program files\codeblocksprojects\test\src\main.cpp
 	<iostream>
+
+1516981676 source:d:\program files\codeblocksprojects\test\src\gittutorial.cpp
+	"GitTutorial.h"
+	<iostream>
+
+1516981576 d:\program files\codeblocksprojects\test\include\gittutorial.h
 
