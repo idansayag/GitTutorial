@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello Idan Sayag , you are a git expert!" << endl;
+    cout << "Hello Idan Sayag!" << endl;
     GitTutorial obj ;
     obj.printCrap();
     return 0;
