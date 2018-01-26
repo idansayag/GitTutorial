@@ -9,5 +9,5 @@ GitTutorial::GitTutorial()
 
 void GitTutorial::printCrap()
 {
-    cout << "print some crap" <<endl;
+    cout << "print some crap after checking out multiple times" <<endl;
 }
